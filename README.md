@@ -1,7 +1,3 @@
-## Hi there 👋
-
-Welcome to my GitHub profile! Here's a preview of one of my web projects:
-
 # 👋 Hi, I'm Muhammad Awan
 
 Welcome to my GitHub profile! Here's one of my recent web projects:
